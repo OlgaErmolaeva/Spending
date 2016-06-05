@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spending</string>
+    <string name="hint_amount">Enter amount</string>
+    <string name="hint_currency">Enter currency</string>
+    <string name="submit">Submit</string>
+    <string name="hint_expenseDetails">Expense details</string>
+    <string name="toast_expenseSaved">Your expense has been saved.</string>
+</resources>

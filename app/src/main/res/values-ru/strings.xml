@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Затраты</string>
+    <string name="hint_amount">Введите сумму</string>
+    <string name="hint_currency">Введите валюту</string>
+    <string name="submit">Submit</string>
+    <string name="hint_expenseDetails">Подробности</string>
+    <string name="toast_expenseSaved">Ваш расход был сохранен.</string>
+</resources>
